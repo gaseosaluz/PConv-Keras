@@ -109,3 +109,7 @@ venv.bak/
 
 backup*
 pexels_royalty_free_photos*
+
+# Project Files
+.DS_Store
+data/
